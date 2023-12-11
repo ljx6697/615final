@@ -1,0 +1,10 @@
+name: jiaxinapp
+title:
+username: jiaxinapp
+account: jiaxinapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10775146
+bundleId: 8036696
+url: https://jiaxinapp.shinyapps.io/jiaxinapp/
+version: 1
